@@ -71,7 +71,7 @@ public class App extends JFrame {
             }
         });
         // Implement a new timer thread
-        gameTimer = new Timer(6000, new ActionListener() {
+        gameTimer = new Timer(60000, new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 System.out.println("timer ended");
                 gameOn = false;
