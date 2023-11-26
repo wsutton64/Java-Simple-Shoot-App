@@ -5,11 +5,7 @@ import java.util.ArrayList;
 import javax.swing.*;
 
 /*
- * Tbh this isn't the most performant application and took me a little bit longer as I haven't created an application such as this in Java before.
- * As such, I want to give a little disclaimer that I did use Ai to help me construct this. However, I did NOT use it to just write the code for me.
- * I used it for help and advice.
- * 
- * If I am accepted or not, I would like to thank you guys for the opportunity and would wish for an email back.
+Just a JSwing application that spawns a bunch of targets that you have to click before time runs out.
  */
 
 public class App extends JFrame {
